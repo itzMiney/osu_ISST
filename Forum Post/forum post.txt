@@ -1,0 +1,121 @@
+[centre][img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/main.webp?token=GHSAT0AAAAAACPPR654PT7FQTRQOBVZ5OEOZQJTLQQ[/img][/centre]
+
+
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[notice][size=150][b][color=Crimson]Welcome to itzMiney's Summer Scuff Tournament![/color][/b][/size]
+
+This is my second Tournament as a Host, get ready for scuff part 2!
+
+[list]
+[*]Rank range: [color=HotPink][b]50k - 150k[/b][/color] [color=lightgray][i](Until screening results are published)[/i][/color]
+[*]Mode: [color=HotPink][b]1v1[/b][/color]
+[*]Every match will be played with [color=HotPink][b]ScoreV2 + NoFail[/b][/color]
+[*]Every registrant [b]must[/b] be in the [url=https://discord.gg/sHDNEPu9fN][b]Discord Server[/b][/url] or you'll get screened out!
+[*]The Top 64 Players from Qualifiers will qualify for [color=HotPink][b]Round of 32[/b][/color]
+[*]The tournament will be [color=HotPink][b]Double Elimination[/b][/color] [color=lightgray][i](Losers & Winners Bracket)[/i][/color][/list]
+
+
+[size=150][color=HotPink]/[/color][b]/[/b] [color=HotPink][b]Registration[/color][/b][/size]
+
+[list]
+[*]You can sign up via the form at the top of this post or on the Discord Server
+[*][color=HotPink][b]Staff are not allowed[/b][/color] to participate, except for Commentators, Streamers & GFX Artists
+[*]If you want to change your registration info [color=lightgray][i](eg. to change your Discord name)[/i][/color] or unregister from the tournament, please use the [color=HotPink][b]#registration-change[/b][/color] channel on the Discord server[/list]
+
+
+[size=150][color=HotPink]/[/color][b]/[/b] [color=HotPink][b]Screening[/color][/b][/size]
+
+[b]Players might be screened out for the following reasons:[/b]
+[list]
+[*]Being outside of the rank range [color=HotPink][b]at any point[/b][/color] during the registration period.
+[*]Abuse of rank range
+[*]Deranking
+[*]Suspicious behaviour
+[*]Suspicious profile statistics
+[*]Your account is less than 3 months old
+[*]Having been [color=HotPink][b]restricted[/b][/color] in the past 6 months prior to registration end
+[/list]
+
+
+[size=150][color=HotPink]/[/color][b]/[/b] [color=HotPink][b]Mappools[/color][/b][/size] [centre][img]https://imgur-archive.ppy.sh/discord/538710734566326286-1146025279123365898-Screenshot_20230829_120934_Sheets.jpg[/img][/centre][/notice]
+
+
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img][centre][notice][size=150][color=HotPink][b]Registrations[/b] /[b]/[/b] [/color]June 6th - June 20th
+[color=HotPink][b]Screening[/b] /[b]/[/b] [/color][color=lightgray]June 21th - June 23rd[/color]
+[color=HotPink][b]Qualifiers[/b] /[b]/[/b] [/color]June 24th - June 30th
+[color=HotPink][b]Round of 32[/b] /[b]/[/b] [/color][color=lightgray]July 1st - July 7th[/color]
+[color=HotPink][b]Round of 16[/b] /[b]/[/b] [/color]July 8th - July 14th
+[color=HotPink][b]Quarterfinals[/b] /[b]/[/b] [/color][color=lightgray]July 15th - July 21st[/color]
+[color=HotPink][b]Semifinals[/b] /[b]/[/b] [/color]July 22nd - July 28th
+[color=HotPink][b]Finals[/b] /[b]/[/b] [/color][color=lightgray]July 29th - August 4th[/color]
+[color=HotPink][b]Grand Finals[/b] /[b]/[/b] [/color]August 5th - August 11th[/size]
+[/notice][/centre]
+
+
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[notice][size=150][color=HotPink]/[/color][b]/[/b] [color=HotPink][b]Qualifiers[/color][/b][/size]
+
+[list]
+[*]The first stage of the tournament is the Qualifier.
+[*]Players sign up for any one of the lobbies shown on the Mainsheet.
+[*]Should a Player miss their lobby, they may choose a different lobby that still has space.
+[*]If none of the lobbies work for a Player, they may schedule an extra lobby at a time that suits them. Please be aware that this option depends entirely on staff availability.
+    During these lobbies, each Player will play through all maps in order from NM1 to DT2.
+[*]If a player disconnects during the first 30 seconds of a map, an abort can be requested to replay the map. There will be no 3rd try, in case of another disconnect. If a disconnect occurs afte the first 30 seconds of a map, the player(s) that disconnected can replay the map at the end of their Qualifiers lobby.
+[*]If one or more Players in the lobby do not want to replay a certain map, they will just wait outside the lobby for the other Players to finish.
+[/list]
+
+
+[size=150][color=HotPink]/[/color][b]/[/b] [color=HotPink][b]Match Procedure[/color][/b][/size]
+
+[list]
+[*]In the discord, the referee will ping both Players [color=HotPink][b]10-15 minutes[/b][/color] prior to the scheduled match start.
+[quote]Should this not happen until 5 minutes before match start, please message the Admins/Host ASAP![/quote]
+[*][color=HotPink][b]Match invites[/b][/color] will be send [color=HotPink][b]5 - 10 minutes[/b][/color] prior to match start.
+[*]Playere have up to [color=HotPink][b]10 minutes past scheduled time[/b][/color] to join the lobby. Is either Player still missing after warmups, they Player will [color=HotPink][b]lose by default[/b][/color]. Should both Players fail to show up, [color=HotPink][b]higher seed will win by default[/b][/color].
+[*]The first Player in the lobby  is [color=red][b]Team Red and plays in Slot 1[/b][/color]. The other Player is [color=blue][b]Team Blue, playing in Slot 2[/b][/color].
+[*][color=HotPink][b]NoFail[/b][/color] will be [color=HotPink][b]enforced[/b][/color] for every map.
+[*]Each Player has the option of [color=HotPink][b]1 warmup[/b][/color] map. This map shall not be longer than [color=HotPink][b]4:00 minutes[/b][/color] and [color=HotPink][b]cannot be a map from the pool[/b][/color]. Warmups are played with Freemod ON.
+[*]If your matchup is streamed, please send your warmup to the referee, [color=HotPink][b]30 minutes prior[/b][/color] to match start.
+[*]After warmups are completed, both [color=HotPink][b]captains will !roll[/b][/color] for Ban/Pick phase.
+[*]The time for banning or picking a map is [color=HotPink][b]90 seconds[/b][/color]. After a pick was called, there will be a [color=HotPink][b]120 second timer to get ready[/b][/color].
+[*][color=HotPink][b]Double Picking and Double Banning are not allowed![/b][/color]
+[*]Should a player disconnect [color=HotPink][b]within the first 30 seconds[/b][/color] of a map, the map will be [color=HotPink][b]aborted[/b][/color]. Should a player disconnect after [color=HotPink][b]30 seconds[/b][/color], their score will count as 0 unless the score is provided.
+[quote]Aborts only happen once per Player, per match![/quote]
+[*]Each Player has an [color=HotPink][b]optional 120-second timeout[/b][/color], once per match. This timeout may be called at any stage in the match after the first map has been played.
+[*][b]FreeMod Rules:[/b] The following are the mod options/restrictions for each player
+[list]
+[*][b]Player 1: [color=yellow]HD [/color][/b]
+[*][b]Player 2: [color=red]HR[/color]/[color=yellow]HD[/color][color=red]HR[/color]/[color=green]EZ[/color]/[color=green]EZ[/color][color=yellow]HD[/color]/[color=#CD7F32]FL[/color][/b]
+[*][b]EZ modifier: x1.727[/b]
+[quote]This DOES NOT apply for TieBreaker! NoMod or any mod combination is allowed![/quote]
+[/list]
+[/list]
+[/notice]
+
+
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[notice][centre][size=120]🥇 [color=gold][b]FIRST PLACE:[/b][/color] 6 months osu! supporter + Animated Banner[/size]
+
+[size=120]🥈 [color=silver][b]SECOND PLACE:[/b][/color] 4 months osu! supporter + Banner[/size]
+
+[size=120]🥉 [color=#CD7F32][b]THIRD PLACE:[/b][/color] 2 months osu! supporter + Banner[/size]
+[/centre][/notice]
+
+
+
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[notice]
+[quote]If you want to help out in our staff Player any help would be very appreciated![/quote]
+[b]Host:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/16470989]itzMiney[/url]』
+[b]Co-Host:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/15752296]BloodyCat[/url]』
+[b]GFX:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/16470989]itzMiney[/url]』『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/23241267]St3ve3e[/url]』『[img]https://osuflags.omkserver.nl/BE-20.png[/img] [url=https://osu.ppy.sh/users/12549925]Zazzles[/url]』
+[b]Sheeter:[/b]『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/23241267]St3ve3e[/url]』
+[b]Statistician:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/16470989]itzMiney[/url]』
+[b]Mappooler:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/15752296]BloodyCat[/url]』『[img]https://osuflags.omkserver.nl/AU-20.png[/img] [url=https://osu.ppy.sh/users/30485380]nominomu[/url]』『[img]https://osuflags.omkserver.nl/GB-20.png[/img] [url=https://osu.ppy.sh/users/16199365]reforna[/url]』『[img]https://osuflags.omkserver.nl/TR-20.png[/img] [url=https://osu.ppy.sh/users/9045874]Ryukishi[/url]』『[img]https://osuflags.omkserver.nl/GB-20.png[/img] [url=https://osu.ppy.sh/users/8260550]siiyu[/url]』『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/10276352]Lunexia[/url]』
+[b]Mapper:[/b]『[img]https://osuflags.omkserver.nl/AU-20.png[/img] [url=https://osu.ppy.sh/users/30485380]nominomu[/url]』『[img]https://osuflags.omkserver.nl/GB-20.png[/img] [url=https://osu.ppy.sh/users/8260550]siiyu[/url]』
+[b]Tester:[/b]『[img]https://osuflags.omkserver.nl/AU-20.png[/img] [url=https://osu.ppy.sh/users/30485380]nominomu[/url]』『[img]https://osuflags.omkserver.nl/GB-20.png[/img] [url=https://osu.ppy.sh/users/16199365]reforna[/url]』『[img]https://osuflags.omkserver.nl/GB-20.png[/img] [url=https://osu.ppy.sh/users/8260550]siiyu[/url]』『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/10276352]Lunexia[/url]』『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/19992356]yimasu[/url]』『[img]https://osuflags.omkserver.nl/US-20.png[/img] [url=https://osu.ppy.sh/users/10224047]Emerald Ages[/url]』『[img]https://osuflags.omkserver.nl/US-20.png[/img] [url=https://osu.ppy.sh/users/10745072]Ausxh[/url]』『[img]https://osuflags.omkserver.nl/ES-20.png[/img] [url=https://osu.ppy.sh/users/18918243]Shofty[/url]』
+[b]Referee:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/16470989]itzMiney[/url]』『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/15752296]BloodyCat[/url]』『[img]https://osuflags.omkserver.nl/GB-20.png[/img] [url=https://osu.ppy.sh/users/16199365]reforna[/url]』『[img]https://osuflags.omkserver.nl/VN-20.png[/img] [url=https://osu.ppy.sh/users/15678274]NBGamer16[/url]』『[img]https://osuflags.omkserver.nl/RU-20.png[/img] [url=https://osu.ppy.sh/users/9837368]Eloy[/url]』『[img]https://osuflags.omkserver.nl/FI-20.png[/img] [url=https://osu.ppy.sh/users/21073465]sph3re[/url]』『[img]https://osuflags.omkserver.nl/AR-20.png[/img] [url=https://osu.ppy.sh/users/10361419]Vexion[/url]』『[img]https://osuflags.omkserver.nl/US-20.png[/img] [url=https://osu.ppy.sh/users/31184671]pericrayola[/url]』『[img]https://osuflags.omkserver.nl/ID-20.png[/img] [url=https://osu.ppy.sh/users/12085864]Artaa27[/url]』『[img]https://osuflags.omkserver.nl/ID-20.png[/img] [url=https://osu.ppy.sh/users/11050632]Vincent A[/url]』『[img]https://osuflags.omkserver.nl/US-20.png[/img] [url=https://osu.ppy.sh/users/10224047]Emerald Ages[/url]』『[img]https://osuflags.omkserver.nl/UA-20.png[/img] [url=https://osu.ppy.sh/users/11478895]ftndrei[/url]』
+[b]Streamer:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/16470989]itzMiney[/url]』『[img]https://osuflags.omkserver.nl/ES-20.png[/img] [url=https://osu.ppy.sh/users/14269757]Miryuo[/url]』『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/14719987]WhiteDuck[/url]』
+[b]Commentator:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/16470989]itzMiney[/url]』『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/15752296]BloodyCat[/url]』『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/19992356]yimasu[/url]』『[img]https://osuflags.omkserver.nl/ID-20.png[/img] [url=https://osu.ppy.sh/users/11050632]Vincent A[/url]』『[img]https://osuflags.omkserver.nl/US-20.png[/img] [url=https://osu.ppy.sh/users/20345199]NHE Silent[/url]』『[img]https://osuflags.omkserver.nl/DE-20.png[/img] [url=https://osu.ppy.sh/users/14719987]WhiteDuck[/url]』
+[/notice]
