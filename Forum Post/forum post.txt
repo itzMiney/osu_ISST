@@ -87,7 +87,7 @@ This is my second Tournament as a Host, get ready for scuff part 2!
 [list]
 [*][b]Player 1: [color=yellow]HD [/color][/b]
 [*][b]Player 2: [color=red]HR[/color]/[color=yellow]HD[/color][color=red]HR[/color]/[color=green]EZ[/color]/[color=green]EZ[/color][color=yellow]HD[/color]/[color=#CD7F32]FL[/color][/b]
-[*][b]EZ modifier: x1.727[/b]
+[*][b]EZ modifier: x1.727 (1.73)[/b]
 [quote]This DOES NOT apply for TieBreaker! NoMod or any mod combination is allowed![/quote]
 [/list]
 [/list]
