@@ -83,13 +83,7 @@ This is my second Tournament as a Host, get ready for scuff part 2!
 [*]Should a player disconnect [color=HotPink][b]within the first 30 seconds[/b][/color] of a map, the map will be [color=HotPink][b]aborted[/b][/color]. Should a player disconnect after [color=HotPink][b]30 seconds[/b][/color], their score will count as 0 unless the score is provided.
 [quote]Aborts only happen once per Player, per match![/quote]
 [*]Each Player has an [color=HotPink][b]optional 120-second timeout[/b][/color], once per match. This timeout may be called at any stage in the match after the first map has been played.
-[*][b]FreeMod Rules:[/b] The following are the mod options/restrictions for each player
-[list]
-[*][b]Player 1: [color=yellow]HD [/color][/b]
-[*][b]Player 2: [color=red]HR[/color]/[color=yellow]HD[/color][color=red]HR[/color]/[color=green]EZ[/color]/[color=green]EZ[/color][color=yellow]HD[/color]/[color=#CD7F32]FL[/color][/b]
-[*][b]EZ modifier: x1.727 (1.73)[/b]
-[quote]This DOES NOT apply for TieBreaker! NoMod or any mod combination is allowed![/quote]
-[/list]
+[*][b]WC - Wild Card:[/b] The WC Mod is a Wild Card for Mappers to pool whatever they want without strict guidlines, it could really anything, any mod combo or map style is fine!
 [/list]
 [/notice]
 
