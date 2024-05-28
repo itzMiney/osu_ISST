@@ -1,7 +1,7 @@
-[centre][img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/main.webp[/img][/centre]
+[centre][img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/header.webp[/img][/centre]
 
 
-[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/info.webp[/img]
 [notice][size=150][b][color=Crimson]Welcome to itzMiney's Summer Scuff Tournament![/color][/b][/size]
 
 This is my second Tournament as a Host, get ready for scuff part 2!
@@ -40,7 +40,7 @@ This is my second Tournament as a Host, get ready for scuff part 2!
 [size=150][color=HotPink]/[/color][b]/[/b] [color=HotPink][b]Mappools[/color][/b][/size] [centre][img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/pool.webp[/img][/centre][/notice]
 
 
-[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img][centre][notice][size=150][color=HotPink][b]Registrations[/b] /[b]/[/b] [/color]June 6th - June 20th
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/schedule.webp[/img][centre][notice][size=150][color=HotPink][b]Registrations[/b] /[b]/[/b] [/color]June 6th - June 20th
 [color=HotPink][b]Screening[/b] /[b]/[/b] [/color][color=lightgray]June 21th - June 23rd[/color]
 [color=HotPink][b]Qualifiers[/b] /[b]/[/b] [/color]June 24th - June 30th
 [color=HotPink][b]Round of 32[/b] /[b]/[/b] [/color][color=lightgray]July 1st - July 7th[/color]
@@ -52,7 +52,7 @@ This is my second Tournament as a Host, get ready for scuff part 2!
 [/notice][/centre]
 
 
-[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/rules.webp[/img]
 [notice][size=150][color=HotPink]/[/color][b]/[/b] [color=HotPink][b]Qualifiers[/color][/b][/size]
 
 [list]
@@ -88,7 +88,7 @@ This is my second Tournament as a Host, get ready for scuff part 2!
 [/notice]
 
 
-[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/prizes.webp[/img]
 [notice][centre][size=120]🥇 [color=gold][b]FIRST PLACE:[/b][/color] 6 months osu! supporter + Animated Banner[/size]
 
 [size=120]🥈 [color=silver][b]SECOND PLACE:[/b][/color] 4 months osu! supporter + Banner[/size]
@@ -98,7 +98,7 @@ This is my second Tournament as a Host, get ready for scuff part 2!
 
 
 
-[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/forum_fields.webp[/img]
+[img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/staff.webp[/img]
 [notice]
 [quote]If you want to help out in our staff Player any help would be very appreciated![/quote]
 [b]Host:[/b]『[img]https://osuflags.omkserver.nl/AT-20.png[/img] [url=https://osu.ppy.sh/users/16470989]itzMiney[/url]』
