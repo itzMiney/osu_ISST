@@ -1,4 +1,12 @@
-[centre][img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/header.webp[/img][/centre]
+[centre]
+[imagemap]
+https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/header.webp
+12.50 75.00 16.67 15.31 https://forms.gle/TXuSAZ54aDm9ctcA7
+31.94 75.00 16.76 15.94 https://forms.gle/Nn14kHawrzo8RANQ8
+51.48 75.31 16.57 15.31 https://docs.google.com/spreadsheets/d/1Ow6JkSQ4Anpx6PuDX1ekpGCK2iuSWPG8_Rqz_85AwS4/edit?usp=sharing
+70.74 75.31 16.85 15.00 https://discord.gg/sHDNEPu9fN
+[/imagemap]
+[/centre]
 
 
 [img]https://raw.githubusercontent.com/itzMiney/osu_ISST/main/Forum%20Post/info.webp[/img]
